@@ -8,6 +8,6 @@ The aim of this project is to recommend recipes based on a query image of a dish
 5. **Image and Recipe Retrieval** : First 5 images and their recipes are retrieved based on the least distances or maximum similarities.
 6. **UI** : Show this data in a website using HTML and server hosted using Flask.
 <br>
-<div align="center"><img src="Method.png" height='600px'/></div>
+<div align="center"><img src="Modules.png" height='600px'/></div>
 
 
